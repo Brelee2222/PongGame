@@ -1,0 +1,17 @@
+#canvasGraphics {
+    border-color: #aaaaaa;
+    border-radius: 5px;
+    border-style: solid;
+}  
+
+li {
+    color : magenta;
+}
+
+p {
+    color : magenta;
+}
+
+#serverStatus {
+    color : white;
+}
